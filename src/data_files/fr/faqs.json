@@ -1,0 +1,29 @@
+{
+  "subTitle": "Posez-nous toutes vos questions sur notre marque et nos produits, et obtenez des réponses factuelles.",
+  "faqs": [
+    {
+      "question": "Comment Ca marche?",
+      "answer": "Lorsque vous faites affaire avec l'Agence ELR, nous vous faisons parvenir les différents modèles de site web disponible selon le plan choisi et vous nous dites celui que vous préférez. Nous allons par la suite le modifier pour le mettre aux couleurs de votre entreprise et le mettre en ligne."
+    },
+    {
+      "question": "Puis-je passer du Kit de Démarrage à la Boîte à Outils Professionnelle?",
+      "answer": "Absolument ! Il est important de considérer cela dès le début par contre, car les sites offerts par le forfait professionnel sont plus complets et une refonte de votre site complet devra très probablement être faite."
+    },
+    {
+      "question": "Pourquoi le prix est mensuel?",
+      "answer": "Le web est un espace en constante évolution et nous croyons qu'il est important pour votre entreprise de rester à jour avec cela. En vous permettant d'avoir un forfait mensuel, vous avez la possibilité d'avoir des changements constants sans débourser des sommes importantes qui devront être réinvesties dans quelques mois."
+    },
+    {
+      "question": "À quoi puis-je m'attendre en termes de support client?",
+      "answer": "Tous nos clients bénéficient d'un support par e-mail dédié. Avec le Kit de Démarrage, vous recevrez notre support standard, tandis que le plan Professionnelle vous mettra à niveau vers un support prioritaire, ce qui signifie des temps de réponse plus rapides et une assistance spécialisée."
+    },
+    {
+      "question": "À quelle fréquence sont mis à jour les ressources en ligne et les tutoriels?",
+      "answer": "Nous mettons régulièrement à jour nos ressources en ligne et nos tutoriels pour refléter les dernières tendances en matière de bricolage et de construction, ainsi que les introductions de nouveaux outils et techniques. Notre matériel vise à être complet et convivial pour tous les niveaux de compétence."
+    },
+    {
+      "question": "L'Agence ELR propose-t-il des services pour les grands projets ?",
+      "answer": "Oui, nos Solutions Entreprise sont conçues pour les grandes entreprises ayant besoin de services complets. Nous fournissons des consultations, de la planification et de l'approvisionnement en outils et matériaux de haute qualité, ainsi que des solutions de personnel pour des besoins de construction importants. Contactez-nous pour un devis personnalisé."
+    }
+  ]
+}
