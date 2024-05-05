@@ -1,29 +1,29 @@
 {
-  "subTitle": "Posez-nous toutes vos questions sur notre marque et nos produits, et obtenez des réponses factuelles.",
+  "subTitle": "Posez-nous toutes vos questions sur notre marque et nos produits, et obtenez des réponses précises.",
   "faqs": [
     {
-      "question": "Comment Ca marche?",
-      "answer": "Lorsque vous faites affaire avec l'Agence ELR, nous vous faisons parvenir les différents modèles de site web disponible selon le plan choisi et vous nous dites celui que vous préférez. Nous allons par la suite le modifier pour le mettre aux couleurs de votre entreprise et le mettre en ligne."
+      "question": "Quels services de construction Horuss offre-t-il pour les nouveaux propriétaires ?",
+      "answer": "Horuss propose une variété de services de construction adaptés aux nouveaux propriétaires, y compris la construction de maisons personnalisées, les rénovations et les extensions. Nous nous concentrons sur la création d'espaces de vie durables, efficaces et esthétiquement agréables."
     },
     {
-      "question": "Puis-je passer du Kit de Démarrage à la Boîte à Outils Professionnelle?",
-      "answer": "Absolument ! Il est important de considérer cela dès le début par contre, car les sites offerts par le forfait professionnel sont plus complets et une refonte de votre site complet devra très probablement être faite."
+      "question": "Comment Horuss peut-il aider avec mes besoins de construction commerciale ?",
+      "answer": "Horuss fournit des solutions complètes pour la construction commerciale, de la conception initiale et la planification jusqu'à la phase finale de construction. Nous gérons tout, y compris l'obtention des permis, la construction et la gestion de projet pour assurer que votre espace commercial soit prêt à temps et dans le respect du budget."
     },
     {
-      "question": "Pourquoi le prix est mensuel?",
-      "answer": "Le web est un espace en constante évolution et nous croyons qu'il est important pour votre entreprise de rester à jour avec cela. En vous permettant d'avoir un forfait mensuel, vous avez la possibilité d'avoir des changements constants sans débourser des sommes importantes qui devront être réinvesties dans quelques mois."
+      "question": "Qu'est-ce qui différencie Horuss des autres entreprises de construction ?",
+      "answer": "Horuss se distingue par son engagement envers la durabilité et l'innovation dans la construction. Nous utilisons des matériaux et des méthodes écologiques, et notre équipe explore constamment de nouvelles technologies pour améliorer l'efficacité et la qualité de nos projets."
     },
     {
-      "question": "À quoi puis-je m'attendre en termes de support client?",
-      "answer": "Tous nos clients bénéficient d'un support par e-mail dédié. Avec le Kit de Démarrage, vous recevrez notre support standard, tandis que le plan Professionnelle vous mettra à niveau vers un support prioritaire, ce qui signifie des temps de réponse plus rapides et une assistance spécialisée."
+      "question": "Quelle garantie et quel support Horuss offre-t-il après la construction ?",
+      "answer": "Horuss offre une garantie complète pour tous les projets de construction, couvrant l'intégrité structurelle, les matériaux et la main d'œuvre. De plus, nous proposons des services de support et de maintenance continus pour assurer la longévité et la sécurité de votre construction."
     },
     {
-      "question": "À quelle fréquence sont mis à jour les ressources en ligne et les tutoriels?",
-      "answer": "Nous mettons régulièrement à jour nos ressources en ligne et nos tutoriels pour refléter les dernières tendances en matière de bricolage et de construction, ainsi que les introductions de nouveaux outils et techniques. Notre matériel vise à être complet et convivial pour tous les niveaux de compétence."
+      "question": "Horuss peut-il gérer des projets de construction spécialisés comme les bâtiments écologiques ?",
+      "answer": "Absolument ! Horuss a de l'expérience dans la construction de bâtiments écologiques et durables qui répondent à diverses normes environnementales. Notre équipe est qualifiée pour intégrer des technologies vertes telles que les panneaux solaires, les systèmes écoénergétiques et les matériaux durables."
     },
     {
-      "question": "L'Agence ELR propose-t-il des services pour les grands projets ?",
-      "answer": "Oui, nos Solutions Entreprise sont conçues pour les grandes entreprises ayant besoin de services complets. Nous fournissons des consultations, de la planification et de l'approvisionnement en outils et matériaux de haute qualité, ainsi que des solutions de personnel pour des besoins de construction importants. Contactez-nous pour un devis personnalisé."
+      "question": "Horuss offre-t-il des services de gestion de projet pour les constructions à grande échelle ?",
+      "answer": "Oui, Horuss fournit des services complets de gestion de projet pour les projets de construction à grande échelle. Nous supervisons tous les aspects de la construction, de la planification à l'achèvement, en garantissant que les projets sont livrés à temps, dans les limites du budget et conformes aux normes les plus élevées."
     }
   ]
 }
