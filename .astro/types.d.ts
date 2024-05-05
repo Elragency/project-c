@@ -429,30 +429,30 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "products": {
-"a765.md": {
-	id: "a765.md";
-  slug: "a765";
+"exterminateur.md": {
+	id: "exterminateur.md";
+  slug: "exterminateur";
   body: string;
   collection: "products";
   data: InferEntrySchema<"products">
 } & { render(): Render[".md"] };
-"b203.md": {
-	id: "b203.md";
-  slug: "b203";
+"handyman.md": {
+	id: "handyman.md";
+  slug: "handyman";
   body: string;
   collection: "products";
   data: InferEntrySchema<"products">
 } & { render(): Render[".md"] };
-"f303.md": {
-	id: "f303.md";
-  slug: "f303";
+"peintre-gypse.md": {
+	id: "peintre-gypse.md";
+  slug: "peintre";
   body: string;
   collection: "products";
   data: InferEntrySchema<"products">
 } & { render(): Render[".md"] };
-"t845.md": {
-	id: "t845.md";
-  slug: "t845";
+"peintre.md": {
+	id: "peintre.md";
+  slug: "peintre-gypse";
   body: string;
   collection: "products";
   data: InferEntrySchema<"products">
