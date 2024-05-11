@@ -2,7 +2,7 @@
 // An array of links for navigation bar
 const navBarLinks = [
   { name: "Home", url: "/en/" },
-  { name: "Products", url: "/en/products" },
+  { name: "Products", url: "/en/services" },
   { name: "Services", url: "/en/services" },
   { name: "Blog", url: "/en/blog" },
   { name: "Contact", url: "/en/contact" },
@@ -13,7 +13,7 @@ const footerLinks = [
     section: "Ecosystem",
     links: [
       { name: "Documentation", url: "/en/welcome-to-docs/" },
-      { name: "Tools & Equipment", url: "/en/products" },
+      { name: "Tools & Equipment", url: "/en/services" },
       { name: "Construction Services", url: "/en/services" },
     ],
   },

@@ -29,10 +29,10 @@ const footerLinks = [
 
 const socialLinks = {
   facebook: "#",
-  x: "#",
+  // x: "#",
   github: "https://elragency.com",
   google: "#",
-  slack: "#",
+  // slack: "#",
 };
 
 export default {
