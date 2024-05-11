@@ -12,7 +12,7 @@ const footerLinks = [
     section: "Écosystème",
     links: [
       { name: "Documentation", url: "/fr/welcome-to-docs/" },
-      { name: "Outils et Équipements", url: "/ressources" },
+      { name: "Outils et Équipements", url: "/Ressources" },
       { name: "Services de Construction", url: "/services" },
     ],
   },
