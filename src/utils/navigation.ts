@@ -2,7 +2,7 @@
 const navBarLinks = [
   { name: "Accueil", url: "/" },
   { name: "Services", url: "/services" },
-  { name: "Partenaires", url: "/Ressources" },
+  { name: "Partenaires", url: "/ressources" },
   { name: "Blog", url: "/blog" },
   { name: "Contact", url: "/contact" },
 ];
@@ -12,8 +12,8 @@ const footerLinks = [
     section: "Écosystème",
     links: [
       { name: "Documentation", url: "/fr/welcome-to-docs/" },
-      { name: "Outils et Équipements", url: "/fr/products" },
-      { name: "Services de Construction", url: "/fr/services" },
+      { name: "Outils et Équipements", url: "/ressources" },
+      { name: "Services de Construction", url: "/services" },
     ],
   },
   {
