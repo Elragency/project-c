@@ -1,7 +1,7 @@
 ---
 // Import the necessary components
 import MainLayout from "@/layouts/MainLayout.astro";
-import HeroSection from "@components/sections/landing/HeroSection.astro";
+import HeroSection from "@components/sections/landing/Hero-img.astro";
 import HeroSectionAlt from "@components/sections/landing/HeroSectionAlt.astro";
 import ClientsSection from "@components/sections/landing/ClientsSection.astro";
 import FeaturesGeneral from "@components/sections/features/FeaturesGeneral.astro";
@@ -10,7 +10,7 @@ import TestimonialsSection from "@components/sections/testimonials/TestimonialsS
 import PricingSection from "@components/sections/pricing/PricingSection.astro";
 import FAQ from "@components/sections/FAQ.astro";
 import AnnouncementBanner from "@components/ui/banners/AnnouncementBanner.astro";
-import heroImage from "@images/Logorev.webp";
+import heroImage from "@images/automatedt.avif";
 import faqs from "@data/fr/faqs.json";
 import features from "@data/fr/features.json";
 import pricing from "@data/fr/pricing.json";
@@ -36,7 +36,7 @@ const avatarSrcs: Array<string> = [
   />
 
   <HeroSection
-    title=`<span class="text-orange-600 dark:text-orange-600">HORUSS:</span> Notre mission est de construire l'héritage de demain`
+    title=`<span class="text-orange-600 dark:text-orange-600">HORUSS</span> <br>Notre mission est de construire<br> l'héritage de demain`
     subTitle="Une jeune équipe dynamique qui souhaite vous offrir le meilleur service possible."
     primaryBtn="Commencez à explorer nos offres"
     primaryBtnURL={getRelativeLocaleUrl("fr", "products")}
@@ -47,7 +47,7 @@ const avatarSrcs: Array<string> = [
     rating=`<span class="font-bold">4.8</span> / 5`
     starCount={4}
     reviews=`Avec plus de <span class="font-bold">12,8k</span> avis`
-    src={heroImage}
+    src="https://raw.githubusercontent.com/Elragency/project-c/19acdc94e58c6eda71a30c536f34d487090c2746/src/images/automated-tools.avif"
     alt="Pile de boîtes de produits Horuss contenant des outils matériels assortis"
   />
 
@@ -133,7 +133,7 @@ const avatarSrcs: Array<string> = [
     ]}
   />
 
-  <PricingSection pricing={pricing} />
+  <!-- <PricingSection pricing={pricing} /> -->
 
   <FAQ title="Questions<br />fréquemment posées" faqs={faqs} />
 
