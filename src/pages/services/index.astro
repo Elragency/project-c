@@ -6,6 +6,8 @@ import CardSmall from "@components/ui/cards/CardSmall.astro";
 import CardWide from "@components/ui/cards/CardWide.astro";
 import FeaturesStatsAlt from "@components/sections/features/FeaturesStatsAlt.astro";
 import TestimonialsSectionAlt from "@components/sections/testimonials/TestimonialsSectionAlt.astro";
+import PricingSection from "@components/sections/pricing/PricingSection.astro";
+import pricing from "@data/fr/pricing.json";
 
 // Importing necessary functions from Astro
 import { getCollection } from "astro:content";
@@ -20,7 +22,7 @@ const product: CollectionEntry<"services">[] = (
 );
 
 // Define variables for page content
-const title: string = "services";
+const title: string = "Nos Services";
 const subTitle: string =
   "Explorez les différents outils et produits qui vous permettraient de faire accroitre votre entreprise.";
 
@@ -28,7 +30,7 @@ const subTitle: string =
 const testimonials = [
   {
     content:
-      "La qualité du service de peinture de Horuss a complètement transformé l'apparence de notre bureau. Leur attention aux détails et leur efficacité sont exceptionnelles, garantissant un fini impeccable et durable. Travailler avec Horuss, c'est choisir l'excellence.",
+      "La qualité du service de peinture de Gestion Laucandrique a complètement transformé l'apparence de notre bureau. Leur attention aux détails et leur efficacité sont exceptionnelles, garantissant un fini impeccable et durable. Travailler avec Gestion Laucandrique, c'est choisir l'excellence.",
     author: "Jason Clark",
     role: "Propriétaire de maison | Longueuil",
     avatarSrc:
@@ -38,7 +40,7 @@ const testimonials = [
 
   {
     content:
-      "En rénovant notre maison, nous avons fait appel à Horuss pour les travaux de cloison sèche. Leur équipe a livré un travail rapide et propre, créant des espaces parfaitement nivelés prêts pour la décoration. Horuss combine qualité et rapidité pour une satisfaction totale.",
+      "En rénovant notre maison, nous avons fait appel à Gestion Laucandrique pour les travaux de cloison sèche. Leur équipe a livré un travail rapide et propre, créant des espaces parfaitement nivelés prêts pour la décoration. Gestion Laucandrique combine qualité et rapidité pour une satisfaction totale.",
     author: "Maria Gonzalez",
     role: "Chargé de projet | Broccolini",
     avatarSrc:
@@ -48,7 +50,7 @@ const testimonials = [
 
   {
     content:
-      "Pour tous mes besoins en petits travaux et réparations, je fais confiance à Horuss. Leur service de bricoleur est fiable et efficace, s'occupant de tout avec un professionnalisme sans faille. Chaque intervention est réalisée avec précision, et leurs solutions sont toujours durables.",
+      "Pour tous mes besoins en petits travaux et réparations, je fais confiance à Gestion Laucandrique. Leur service de bricoleur est fiable et efficace, s'occupant de tout avec un professionnalisme sans faille. Chaque intervention est réalisée avec précision, et leurs solutions sont toujours durables.",
     author: "Richard Gauthier",
     role: "Gestionnaire immobilier | Solutioncondo",
     avatarSrc:
@@ -60,20 +62,20 @@ const testimonials = [
 ---
 
 <MainLayout
-  title="Nos Services | Horuss"
+  title="Nos Services | Laucandrique"
   lang="fr"
   structuredData={{
     "@context": "https://schema.org",
     "@type": "WebPage",
     "@id": "https://www.horuss.ca/services",
     url: "https://www.horuss.ca/services",
-    name: "Services de pros | Horuss",
+    name: "Services de pros | Gestion Laucandrique",
     description:
       "Notre but est de fournir un service de qualité à un prix imbattable sur le marché",
     isPartOf: {
       "@type": "WebSite",
       url: "https://www.horuss.ca/services",
-      name: "Horuss",
+      name: "Gestion Laucandrique",
       description:
         "Nous avons une main d'oeuvre qualifiée avec l'expérience requise pour accomplir vos travaux rapidement.",
     },
@@ -121,14 +123,16 @@ const testimonials = [
   </div>
   <!--Features statistics section-->
   <FeaturesStatsAlt
-  title="Pourquoi choisir Horuss ?"
-  subTitle="Confiez vos travaux de peinture, de cloison sèche et de bricolage à Horuss. Notre expertise garantit non seulement la qualité mais aussi la personnalisation de chaque service selon vos besoins spécifiques."
+  title="Pourquoi choisir Gestion Laucandrique ?"
+  subTitle="Confiez la gestion de votre copropriété, vos travaux de rénovation et d'urgence à Gestion Laucandrique. Notre expertise garantit non seulement la qualité mais aussi la personnalisation de chaque service selon vos besoins spécifiques."
   benefits={[
-    "Finitions de peinture précises et esthétiquement plaisantes.",
-    "Installation de cloison sèche rapide et sans faille.",
-    "Services de bricolage fiables pour une maintenance facile et rapide.",
+    "Gestion de copropriété avec un gestionnaire attitré et des services complets incluant la préparation de budgets, la conciliation bancaire et le prélèvement automatique des frais de condo.",
+    "Services d'urgence disponibles 24h/7 pour une intervention rapide et efficace en cas de sinistre, en partenariat avec des assureurs et des entrepreneurs qualifiés.",
+    "Rénovations majeures avec coordination de multiples entrepreneurs, assurant des travaux de grande envergure réalisés avec précision et professionnalisme.",
   ]}
 />
+
+<PricingSection pricing={pricing} />
 
   <!--Testimonials section-->
   <TestimonialsSectionAlt

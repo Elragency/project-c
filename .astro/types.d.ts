@@ -429,30 +429,30 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "services": {
-"exterminateur.md": {
-	id: "exterminateur.md";
-  slug: "exterminateur";
+"comptable.md": {
+	id: "comptable.md";
+  slug: "comptabilite";
   body: string;
   collection: "services";
   data: InferEntrySchema<"services">
 } & { render(): Render[".md"] };
-"handyman.md": {
-	id: "handyman.md";
-  slug: "handyman";
+"gestion.md": {
+	id: "gestion.md";
+  slug: "gestion";
   body: string;
   collection: "services";
   data: InferEntrySchema<"services">
 } & { render(): Render[".md"] };
-"peintre-gypse.md": {
-	id: "peintre-gypse.md";
-  slug: "peintre";
+"sinistres.md": {
+	id: "sinistres.md";
+  slug: "sinistres";
   body: string;
   collection: "services";
   data: InferEntrySchema<"services">
 } & { render(): Render[".md"] };
-"peintre.md": {
-	id: "peintre.md";
-  slug: "peintre-gypse";
+"travaux.md": {
+	id: "travaux.md";
+  slug: "travaux";
   body: string;
   collection: "services";
   data: InferEntrySchema<"services">

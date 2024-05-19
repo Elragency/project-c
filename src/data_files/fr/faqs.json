@@ -1,29 +1,29 @@
 {
-  "subTitle": "Posez-nous toutes vos questions sur notre marque et nos produits, et obtenez des réponses précises.",
+  "subTitle": "Posez-nous toutes vos questions sur nos services de gestion de copropriété et obtenez des réponses factuelles.",
   "faqs": [
     {
-      "question": "Quels services de construction Horuss offre-t-il pour les nouveaux propriétaires ?",
-      "answer": "Horuss propose une variété de services de construction adaptés aux nouveaux propriétaires, y compris la construction de maisons personnalisées, les rénovations et les extensions. Nous nous concentrons sur la création d'espaces de vie durables, efficaces et esthétiquement agréables."
+      "question": "Quels services de gestion de copropriété offre Gestion Laucandrique ?",
+      "answer": "Gestion Laucandrique offre une gestion complète des copropriétés, incluant la préparation des budgets, la conciliation bancaire, les états financiers mensuels, trimestriels et annuels, et le prélèvement automatique des frais de condo. Nous assurons également la tenue à jour des registres comptables et offrons un accompagnement pour les décisions des conseils d'administration."
     },
     {
-      "question": "Comment Horuss peut-il aider avec mes besoins de construction commerciale ?",
-      "answer": "Horuss fournit des solutions complètes pour la construction commerciale, de la conception initiale et la planification jusqu'à la phase finale de construction. Nous gérons tout, y compris l'obtention des permis, la construction et la gestion de projet pour assurer que votre espace commercial soit prêt à temps et dans le respect du budget."
+      "question": "Comment Gestion Laucandrique gère-t-elle les situations d'urgence et les sinistres ?",
+      "answer": "Gestion Laucandrique dispose d'une ligne d'urgence disponible 24h/7 pour répondre rapidement à toute situation critique. Nous offrons également un service complet de gestion des sinistres, de l'évaluation initiale à la réclamation auprès des assureurs, en partenariat avec des entrepreneurs qualifiés pour des réparations rapides et efficaces."
     },
     {
-      "question": "Qu'est-ce qui différencie Horuss des autres entreprises de construction ?",
-      "answer": "Horuss se distingue par son engagement envers la durabilité et l'innovation dans la construction. Nous utilisons des matériaux et des méthodes écologiques, et notre équipe explore constamment de nouvelles technologies pour améliorer l'efficacité et la qualité de nos projets."
+      "question": "Qu'est-ce qui distingue Gestion Laucandrique des autres entreprises de gestion de copropriété ?",
+      "answer": "Gestion Laucandrique se distingue par ses 35 ans d'expérience, son expertise et son dévouement à offrir un service personnalisé avec un gestionnaire attitré à chaque copropriété. Nos partenariats avec des assureurs et des entrepreneurs fiables nous permettent de réduire les coûts tout en maintenant une haute qualité de service."
     },
     {
-      "question": "Quelle garantie et quel support Horuss offre-t-il après la construction ?",
-      "answer": "Horuss offre une garantie complète pour tous les projets de construction, couvrant l'intégrité structurelle, les matériaux et la main d'œuvre. De plus, nous proposons des services de support et de maintenance continus pour assurer la longévité et la sécurité de votre construction."
+      "question": "Quels types de projets de rénovation Gestion Laucandrique peut-elle gérer ?",
+      "answer": "Gestion Laucandrique est spécialisée dans la gestion de projets de rénovation majeurs nécessitant la coordination de multiples entrepreneurs de différents métiers. Que ce soit pour des rénovations complexes ou des constructions neuves, nous assurons une gestion fluide et efficace pour des résultats optimaux."
     },
     {
-      "question": "Horuss peut-il gérer des projets de construction spécialisés comme les bâtiments écologiques ?",
-      "answer": "Absolument ! Horuss a de l'expérience dans la construction de bâtiments écologiques et durables qui répondent à diverses normes environnementales. Notre équipe est qualifiée pour intégrer des technologies vertes telles que les panneaux solaires, les systèmes écoénergétiques et les matériaux durables."
+      "question": "Comment Gestion Laucandrique assure-t-elle la transparence financière ?",
+      "answer": "Gestion Laucandrique assure une transparence financière totale en fournissant des états financiers détaillés et réguliers, en effectuant des conciliations bancaires rigoureuses et en préparant des budgets précis et réalistes. Toutes les transactions sont réalisées via la plateforme sécurisée Otonom."
     },
     {
-      "question": "Horuss offre-t-il des services de gestion de projet pour les constructions à grande échelle ?",
-      "answer": "Oui, Horuss fournit des services complets de gestion de projet pour les projets de construction à grande échelle. Nous supervisons tous les aspects de la construction, de la planification à l'achèvement, en garantissant que les projets sont livrés à temps, dans les limites du budget et conformes aux normes les plus élevées."
+      "question": "Gestion Laucandrique propose-t-elle des services d'accompagnement pour les conseils d'administration ?",
+      "answer": "Oui, Gestion Laucandrique offre un accompagnement complet pour les conseils d'administration, incluant des conseils d'experts et une gestion transparente pour les aider à prendre des décisions éclairées et stratégiques pour la copropriété."
     }
   ]
 }
