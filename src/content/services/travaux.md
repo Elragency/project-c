@@ -5,8 +5,8 @@ main:
   id: 4
   content: |
     Vous avez un projet avec une ampleur qui dépasse vos capacités? Chez Gestion Laucandrique, nous pouovons nous en occuper de manière professionnelle et compétente. Nous avons un département dédié à ce genre de projet, prêt à vous accompagner.
-  imgCard: "@/images/services/handy.webp"
-  imgMain: "@/images/services/handy-nob.webp"
+  imgCard: "@/images/services/majeurs.webp"
+  imgMain: "@/images/services/majeurs.webp"
   imgAlt: "Mockup boxes of hex bolts"
 tabs:
   - id: "tabs-with-card-item-1"

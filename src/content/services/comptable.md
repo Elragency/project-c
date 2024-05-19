@@ -5,7 +5,7 @@ main:
   id: 1
   content: |
     Si vous vous sentez en confiance en autogestion mais n'avez pas le temps ou les connaissances de réaliser la comptabilité de votre syndicat, nous pouvons vous aider dans ce processus et nous assurer que vos livres soient à jour et conforme aux différentes exigences légales pour éviter les embuches.
-  imgCard: "@/images/services/paint.webp"
+  imgCard: "@/images/services/comptabilite.webp"
   imgMain: "@/images/services/paint.webp"
   imgAlt: "Mockup boxes of machine screws set"
 tabs:

@@ -35,7 +35,7 @@ export default defineConfig({
       },
     }),
     starlight({
-      title: "ScrewFast Docs",
+      title: "Laucandrique Docs",
       defaultLocale: "root",
       locales: {
         root: {

@@ -5,8 +5,8 @@ main:
   id: 2
   content: |
     Choisir Gestion Laucandrique, c'est choisir un service personalisé, professionel qui saura vous garantir un accompagnement complet dans la gestion de votre investissement au prix le plus compétitif en montérégie.
-  imgCard: "@/images/services/gyps-paint.webp"
-  imgMain: "@/images/services/gyps-paint.webp"
+  imgCard: "@/images/services/gestion.webp"
+  imgMain: "@/images/services/gestion.webp"
   imgAlt: "Mockup boxes of assorted screw set"
 tabs:
   - id: "tabs-with-card-item-1"

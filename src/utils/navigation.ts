@@ -29,10 +29,13 @@ const footerLinks = [
 ];
 
 const socialLinks = {
-  facebook: "#",
+  facebook: "https://www.facebook.com/laucandrique",
+  instagram: "https://www.instagram.com/laucandrique",
+  linkedin: "https://www.linkedin.com/company/laucandrique",
+
   // x: "#",
-  github: "https://elragency.com",
-  google: "#",
+  // github: "https://elragency.com",
+  // google: "#",
   // slack: "#",
 };
 

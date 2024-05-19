@@ -5,8 +5,8 @@ main:
   id: 3
   content: |
     Un des fléaux dans l'industrie de la copropriété au Québec est la gestion des sinsitres et des urgences. Jumelé aux réclamatiosn à faire et les négociations avec les assurances, obtenir un soutien compétent est presque une obligation, nous pouvons nous en charger.
-  imgCard: "@/images/services/exterm.webp"
-  imgMain: "@/images/services/exterm-nob.webp"
+  imgCard: "@/images/services/sinistres.webp"
+  imgMain: "@/images/services/sinistres.webp"
   imgAlt: "Mockup boxes of a tap bolts and nuts set"
 tabs:
   - id: "tabs-with-card-item-1"

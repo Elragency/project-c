@@ -1,12 +1,12 @@
 import ogImageSrc from "@images/social.png";
 
 export const SITE = {
-  title: "Horuss Construction",
-  tagline: "Construire l'héritage de demain un projet à la fois",
-  description: "ScrewFast offers top-tier hardware tools and expert construction services to meet all your project needs. Start exploring and contact our sales team for superior quality and reliability.",
-  description_short: "ScrewFast offers top-tier hardware tools and expert construction services to meet all your project needs.",
+  title: "Gestion Laucandrique",
+  tagline: "Ensemble, réalisons tous vos projets de copropriétés",
+  description: "Laucandrique s’assure de répondre à tous les besoins de ses clients avec une offre de service complète en gestion de copropriété. L’équipe de gestionnaires et les employé.es de tous les autres départements administratifs partagent une mission commune; celle d’assurer la gestion optimale et efficace de tous les immeubles qui leur sont confiés.",
+  description_short: "Laucandrique s’assure de répondre à tous les besoins de ses clients avec une offre de service complète en gestion de copropriété.",
   url: "https://screwfast.uk",
-  author: "Eddy",
+  author: "Gestion Laucandrique",
 };
 
 export const SEO = {
